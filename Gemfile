@@ -9,6 +9,7 @@ gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0', group: :doc
 
 gem "my_engine", path: "engines/my_engine"
+gem "cells-erb"
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
